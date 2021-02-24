@@ -34,8 +34,9 @@ namespace practicaGit
             this.label3 = new System.Windows.Forms.Label();
             this.listaAlumnos = new System.Windows.Forms.TextBox();
             this.aluNombre = new System.Windows.Forms.TextBox();
-            this.aluNota = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -81,13 +82,6 @@ namespace practicaGit
             this.aluNombre.Size = new System.Drawing.Size(337, 26);
             this.aluNombre.TabIndex = 4;
             // 
-            // aluNota
-            // 
-            this.aluNota.Location = new System.Drawing.Point(496, 88);
-            this.aluNota.Name = "aluNota";
-            this.aluNota.Size = new System.Drawing.Size(100, 26);
-            this.aluNota.TabIndex = 5;
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(673, 57);
@@ -98,13 +92,20 @@ namespace practicaGit
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // aluNota
+            // 
+            this.aluNota.Location = new System.Drawing.Point(496, 88);
+            this.aluNota.Name = "aluNota";
+            this.aluNota.Size = new System.Drawing.Size(120, 26);
+            this.aluNota.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(933, 441);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.aluNota);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.aluNombre);
             this.Controls.Add(this.listaAlumnos);
             this.Controls.Add(this.label3);
@@ -112,6 +113,7 @@ namespace practicaGit
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -124,8 +126,8 @@ namespace practicaGit
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox listaAlumnos;
         private System.Windows.Forms.TextBox aluNombre;
-        private System.Windows.Forms.TextBox aluNota;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 
