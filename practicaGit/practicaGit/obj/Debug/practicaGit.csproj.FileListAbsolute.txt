@@ -1,0 +1,10 @@
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\bin\Debug\practicaGit.exe.config
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\bin\Debug\practicaGit.exe
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\bin\Debug\practicaGit.pdb
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.csprojAssemblyReference.cache
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.Form1.resources
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.Properties.Resources.resources
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.csproj.GenerateResource.cache
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.csproj.CoreCompileInputs.cache
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.exe
+C:\Users\Cristina\Source\Repos\KN-2021\practicaGIT\practicaGit\practicaGit\obj\Debug\practicaGit.pdb
